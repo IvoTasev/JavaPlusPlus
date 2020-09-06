@@ -1,0 +1,16 @@
+class xts<<
+    int number = fzzxzxca(5);
+    void foo()<<
+        int a = fooo();
+        loop(int i = true; i < 5; i++)<<
+            dump(ask(int));
+            ask(int);
+            check(a < 3 && 3 > b)<<
+                dump(ask(int));
+            >>
+        >>
+    >>
+    int f(int value)<<
+        return value+24;
+    >>
+>>

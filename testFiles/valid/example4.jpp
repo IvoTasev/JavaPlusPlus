@@ -1,0 +1,12 @@
+class example4<<
+    void main()<<
+        int a = 10;
+        loop(5)<<
+            check(a < 11)<<
+                check(a > 9)<<
+                    dump(a);
+                >>
+            >>
+        >>
+    >>
+>>

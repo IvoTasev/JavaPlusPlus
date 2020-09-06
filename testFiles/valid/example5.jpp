@@ -1,0 +1,16 @@
+class example5 <<
+
+    int sum(int a, int b)<<
+        int sum = a + b;
+        return sum;
+    >>
+
+    void main()<<
+        int c = sum(5, 10);
+        dump(c);
+        c = sum(c, 5);
+        dump(c);
+    >>
+
+>>
+

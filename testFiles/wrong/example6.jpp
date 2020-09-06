@@ -1,0 +1,7 @@
+class example6 <<
+
+    void main()<<
+        dump(5);
+    >>
+
+>>

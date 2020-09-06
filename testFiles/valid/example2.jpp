@@ -1,0 +1,10 @@
+class example2 <<
+
+    void main()<<
+        int a = 5;
+        check (a > 4)<<
+            dump(a);
+        >>
+    >>
+
+>>

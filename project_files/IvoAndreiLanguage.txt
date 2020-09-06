@@ -1,0 +1,39 @@
+/////////////////////
+
+operators for comparisons:
+==, !=, =>, =<, >, <, &&, ||;
+
+math operators:
++, -, *, /, ++, --;
+
+data types:
+	bool = true/false,
+	int = 0-9+, 
+	char = ''
+	
+return types:
+void, int, bool, char
+
+function: 
+	*return type* task x(int value)<<
+	// code goes here
+	>>
+printing: 
+	dump(value);
+
+splitting:
+	check(bool)<<
+	
+	>> otherwise <<
+		>>
+looping:
+
+loop(int i = 0; i < 5; i++)<<
+
+>>
+input:
+ask(int; bool; char)
+
+
+/////////////////////
+example: statement    parameter    semicolon

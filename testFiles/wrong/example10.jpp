@@ -1,0 +1,8 @@
+class example10<<
+
+    void main()<<
+            int a = 5;
+            a = a + "asdfgh";
+            dump(a);
+    >>
+>>

@@ -1,0 +1,11 @@
+class example9 <<
+
+    int sum(int a, int b)<<
+        return a + b;
+    >>
+
+    void main()<<
+        int a = sum(5, 10, 15);
+        dump(a);
+    >>
+>>

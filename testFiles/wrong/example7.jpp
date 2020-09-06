@@ -1,0 +1,13 @@
+class example7 <<
+
+    void foo()<<
+        int a = 5;
+        return a;
+    >>
+
+    void main()<<
+        int a = foo();
+        dump(a);
+    >>
+
+>>

@@ -1,0 +1,11 @@
+class example3 <<
+
+    void main()<<
+        int a = 10;
+        loop(5)<<
+            a = a + 1;
+            dump(a);
+        >>
+    >>
+
+>>

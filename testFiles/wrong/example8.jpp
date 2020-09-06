@@ -1,0 +1,8 @@
+class example8 <<
+
+    void main()<<
+        int a = "test";
+        dump(a);
+    >>
+
+>>

@@ -1,0 +1,7 @@
+class example1 <<
+
+    void main()<<
+        int a = ask(int);
+        dump(a);
+    >>
+>>
