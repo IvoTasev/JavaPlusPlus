@@ -10,7 +10,7 @@ public class Checker extends JavaplusplusBaseVisitor<DataType> {
     private Pattern stringPattern = Pattern.compile("\"[a-zA-Z0-9 ]*\"");
     private Pattern intPattern = Pattern.compile("[1-9][0-9]*");
     private Pattern boolPattern = Pattern.compile(("(true)|(false)"));
-    private Pattern methodCallPattern = Pattern.compile(".*()");
+    private Pattern methodCallPattern = Pattern.compile("[.*]()");
 
     private ParseTreeProperty<DataType> types = new ParseTreeProperty<>();
 
